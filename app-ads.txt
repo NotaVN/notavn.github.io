@@ -1108,7 +1108,7 @@ video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
-
+facebook.com, 1512059052418498, DIRECT, c3e20eee3f780d68
 
 
 
