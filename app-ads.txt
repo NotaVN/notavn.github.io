@@ -1337,10 +1337,77 @@ onetag.com, 8dd8de7f341d57e, RESELLER
 pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
 onetag.com, 8dd92b4434e684b, RESELLER
 contextweb.com, 563539, RESELLER, 89ff185a4c4e857c
-
-
-
-
-
-
-
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+rhebus.works, 5000863388, RESELLER
+risecodes.com, 6486c6155b231000010244b0, RESELLER
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
+eskimi.com, 2020000663, RESELLER
+eskimi.com, 2020000545, RESELLER
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007040, RESELLER, d641df8625486a7b
+pubnative.net, 1007974, RESELLER, d641df8625486a7b
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
+pubnative.net, 1009988, RESELLER, d641df8625486a7b
+pubnative.net, 1006955, RESELLER, d641df8625486a7b
+tradplusad.com, b3fca24bd11c1242, RESELLER
+unity.com, 4994402, DIRECT, 96cabb5fbdde37a7
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+conversantmedia.com, 100396, RESELLER, 03113cd04947736d
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+onetag.com, 8668c16092f01e8, RESELLER
+onetag.com, 5d1628750185ace, RESELLER
+onetag.com, 8c90176af2e65c8, RESELLER
+openx.com, 540857594, RESELLER, 6a698e2ec38604c6
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+openx.com, 540861995, RESELLER, 6a698e2ec38604c6
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+orangeclickmedia.com, c-1181, RESELLER
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+zetaglobal.net, 815, RESELLER
+ignitemediatech.com, pub_11115, RESELLER
+admanmedia.com, 990, RESELLER
+admanmedia.com, 2153, RESELLER
+admanmedia.com, 2242, RESELLER
+contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+xapads.com, 117219, RESELLER
+blueseasx.com, 232670, RESELLER, 7998eac5087f6110
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+smartclip.net, 27985, RESELLER
+Media.net, 8CU12AQ1Y, RESELLER
+connekt.ai, 1732945743, RESELLER
+mars.media, 1010442, RESELLER, 8624339f102fb076
+prado.co, 14260, RESELLER
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
